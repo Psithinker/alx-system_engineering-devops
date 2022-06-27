@@ -1,1 +1,1 @@
-time for shell redirections
+shell redirections
